@@ -1,106 +1,69 @@
 <div align="center">
 
-# Hello, Waseem 👋
+# Hello, I'm Waseem 👋
 
 ### Full-Stack Web Developer • Software Engineer
 
-Building modern, responsive web applications with clean design and scalable architecture.
+I build fast, modern, and responsive web applications with a strong focus on user experience, performance, and clean architecture.
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;React+%7C+Node.js+%7C+TypeScript;Always+Learning+New+Technologies;Open+to+Freelance+Projects" />
 
 </div>
 
-<br>
+---
 
-```text
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-██╗    ██╗ █████╗ ███████╗███████╗███████╗███╗   ███╗
-██║    ██║██╔══██╗██╔════╝██╔════╝██╔════╝████╗ ████║
-██║ █╗ ██║███████║███████╗█████╗  █████╗  ██╔████╔██║
-██║███╗██║██╔══██║╚════██║██╔══╝  ██╔══╝  ██║╚██╔╝██║
-╚███╔███╔╝██║  ██║███████║███████╗███████╗██║ ╚═╝ ██║
- ╚══╝╚══╝ ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝╚═╝     ╚═╝
+## 👨‍💻 About Me
+
+```yaml
+Name: Waseem
+Role: Full-Stack Web Developer
+Location: Morocco
+
+Currently:
+  - Building modern websites
+  - Learning backend architecture
+  - Improving UI/UX design
+
+Focus:
+  - Performance
+  - Clean Code
+  - Scalable Applications
+
+Available for:
+  - Freelance Projects
 ```
-
-<table>
-<tr>
-
-<td width="48%">
-
-<!-- Your ASCII profile will go here -->
-
-```text
-███████████████████████
-███████████████████████
-███████████████████████
-██████████▒▒███████████
-███████▒▒▒▒▒▒▒█████████
-██████▒▒████▒▒█████████
-██████▒▒████▒▒█████████
-██████▒▒▒▒▒▒▒▒█████████
-███████▒▒▒▒▒███████████
-███████████████████████
-```
-
-</td>
-
-<td width="52%">
-
-```text
-waseem@github
-──────────────────────────────────────
-
-Role
-Full-Stack Web Developer
-
-Focus
-Modern Web Experiences
-
-Languages
-• JavaScript
-• TypeScript
-• Python
-• HTML
-• CSS
-
-Frameworks
-• React
-• Next.js
-• Node.js
-• Express
-
-Tools
-• Git
-• GitHub
-• VS Code
-• Figma
-• Supabase
-• Cloudflare
-
-Currently
-Building premium restaurant websites
-Learning AI automation
-
-Status
-Open for Freelance Projects
-```
-
-</td>
-
-</tr>
-</table>
 
 ---
 
-## Tech Stack
+## 🚀 Tech Stack
 
-<p align="center">
+### Frontend
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,js,ts,python,html,css,tailwind,vite,git,github,vscode,figma,supabase" />
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,js,ts,vite"/>
+
+</p>
+
+### Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,supabase"/>
+
+</p>
+
+### Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm"/>
 
 </p>
 
 ---
 
-## GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
 
@@ -112,7 +75,27 @@ Open for Freelance Projects
 
 ---
 
-## Contact
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
 
@@ -121,3 +104,13 @@ Open for Freelance Projects
 </a>
 
 </p>
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile!
+
+⭐ If you enjoy my projects, consider giving them a star.
+
+</div>
