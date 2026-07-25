@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hello, I'm Waseem 👋
+# Hello, I'm Waseem 
 
 ### Full-Stack Web Developer • Software Engineer
 
@@ -12,7 +12,7 @@ I build fast, modern, and responsive web applications with a strong focus on use
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 ```yaml
 Name: Waseem
@@ -35,7 +35,7 @@ Available for:
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 ### Frontend
 
@@ -63,7 +63,7 @@ Available for:
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <p align="center">
 
@@ -75,7 +75,7 @@ Available for:
 
 ---
 
-## 🔥 GitHub Streak
+## GitHub Streak
 
 <p align="center">
 
@@ -85,7 +85,7 @@ Available for:
 
 ---
 
-## 📊 Contribution Graph
+## Contribution Graph
 
 <p align="center">
 
